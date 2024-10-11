@@ -1,7 +1,5 @@
 import random
 
-from selenium.webdriver.common.devtools.v127.fetch import continue_response
-
 print("Welcome to the game of guessing a number")
 response = input("Do you want to play the game, YES or No? ").lower()
 
